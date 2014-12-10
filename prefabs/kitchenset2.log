@@ -1,0 +1,310 @@
+hlcsg v2.5.3 rel Custom Build 1.7 (Dec  9 2002)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (merlinis@bigpond.net.au)
+-----  BEGIN  hlcsg -----
+Command line: C:\DOCUME~1\Sekys\Plocha\Cahe\HAMMER~1\hlcsg.exe "c:\documents and settings\sekys\plocha\prefabs\kitchenset2"
+Entering c:\documents and settings\sekys\plocha\prefabs\kitchenset2.map
+
+Current hlcsg Settings
+Name                 |  Setting  |  Default
+---------------------|-----------|-------------------------
+threads               [       1 ] [  Varies ]
+verbose               [     off ] [     off ]
+log                   [      on ] [      on ]
+developer             [       0 ] [       0 ]
+chart                 [     off ] [     off ]
+estimate              [     off ] [     off ]
+max texture memory    [ 4194304 ] [ 4194304 ]
+priority              [  Normal ] [  Normal ]
+
+noclip                [     off ] [     off ]
+null texture stripping[      on ] [      on ]
+clipnode economy mode [      on ] [      on ]
+onlyents              [     off ] [     off ]
+wadtextures           [      on ] [      on ]
+skyclip               [      on ] [      on ]
+hullfile              [    None ] [    None ]
+min surface area      [   0.500 ] [   0.500 ]
+brush union threshold [   0.000 ] [   0.000 ]
+
+Using mapfile wad configuration
+Wadinclude list :
+[zhlt.wad]
+
+17 brushes (totalling 102 sides) discarded from clipping hulls
+CreateBrush:
+ (0.37 seconds)
+SetModelCenters:
+ (0.00 seconds)
+CSGBrush:
+ (0.89 seconds)
+
+Using Wadfile: \program files\valve\cstrike\cs_747.wad
+ - Contains 3 used textures, 15.79 percent of map (143 textures in wad)
+Using Wadfile: \program files\valve\cstrike\cs_assault.wad
+ - Contains 0 used textures, 0.00 percent of map (22 textures in wad)
+Using Wadfile: \program files\valve\cstrike\0soup0_simpsons.wad
+ - Warning: Larger than expected texture (251052 bytes): 'CAR'
+ - Warning: Larger than expected texture (270092 bytes): '{BURNSWINDOW'
+ - Warning: Larger than expected texture (348972 bytes): 'NUKEOUTSIDE'
+ - Warning: Larger than expected texture (348972 bytes): 'TRAILER'
+ - Warning: Larger than expected texture (261932 bytes): '{PLEXFLASH'
+ - Warning: Larger than expected texture (196652 bytes): 'COMICSTORE'
+ - Warning: Larger than expected texture (261932 bytes): '{RADIO'
+ - Contains 0 used textures, 0.00 percent of map (110 textures in wad)
+Using Wadfile: \program files\valve\cstrike\actcity2.wad
+ - Contains 0 used textures, 0.00 percent of map (41 textures in wad)
+Using Wadfile: \program files\valve\cstrike\cs_office.wad
+ - Contains 0 used textures, 0.00 percent of map (102 textures in wad)
+Using Wadfile: \program files\valve\cstrike\cs_bdog.wad
+ - Contains 0 used textures, 0.00 percent of map (132 textures in wad)
+Using Wadfile: \program files\valve\cstrike\cs_cbble.wad
+ - Contains 0 used textures, 0.00 percent of map (61 textures in wad)
+Using Wadfile: \program files\valve\cstrike\cs_dust.wad
+ - Contains 0 used textures, 0.00 percent of map (28 textures in wad)
+Using Wadfile: \program files\valve\cstrike\cstrike.wad
+ - Contains 0 used textures, 0.00 percent of map (123 textures in wad)
+Using Wadfile: \program files\valve\cstrike\de_aztec.wad
+ - Warning: Larger than expected texture (348972 bytes): 'SPECIAL_THANKS'
+ - Warning: Larger than expected texture (348972 bytes): 'THANKS'
+ - Contains 0 used textures, 0.00 percent of map (24 textures in wad)
+Using Wadfile: \program files\valve\cstrike\de_piranesi.wad
+ - Contains 0 used textures, 0.00 percent of map (160 textures in wad)
+Using Wadfile: \program files\valve\cstrike\de_storm.wad
+ - Contains 1 used texture, 5.26 percent of map (74 textures in wad)
+Using Wadfile: \program files\valve\cstrike\decals.wad
+ - Contains 0 used textures, 0.00 percent of map (225 textures in wad)
+Using Wadfile: \program files\valve\cstrike\es_trinity.wad
+ - Contains 0 used textures, 0.00 percent of map (53 textures in wad)
+Using Wadfile: \program files\valve\cstrike\fy_pool_evening.wad
+ - Contains 1 used texture, 5.26 percent of map (35 textures in wad)
+Using Wadfile: \program files\valve\cstrike\itsitaly.wad
+ - Contains 0 used textures, 0.00 percent of map (99 textures in wad)
+Using Wadfile: \program files\valve\cstrike\jos.wad
+ - Contains 0 used textures, 0.00 percent of map (24 textures in wad)
+Using Wadfile: \program files\valve\cstrike\torntextures.wad
+ - Warning: Larger than expected texture (240172 bytes): 'TK_STONEWALLHI'
+ - Warning: Larger than expected texture (306812 bytes): 'TK_CLAYROOF'
+ - Warning: Larger than expected texture (272812 bytes): '{TK_PLANTLG'
+ - Warning: Larger than expected texture (327212 bytes): '{TK_PLANTSM'
+ - Warning: Larger than expected texture (235412 bytes): 'TK_TORNMAP'
+ - Contains 0 used textures, 0.00 percent of map (162 textures in wad)
+Using Wadfile: \program files\valve\cstrike\halflife.wad
+ - Contains 0 used textures, 0.00 percent of map (3116 textures in wad)
+Using Wadfile: \program files\valve\cstrike\cs_havana.wad
+ - Contains 0 used textures, 0.00 percent of map (122 textures in wad)
+Using Wadfile: \program files\valve\cstrike\de_airstrip.wad
+ - Contains 0 used textures, 0.00 percent of map (69 textures in wad)
+Using Wadfile: \program files\valve\cstrike\chateau.wad
+ - Contains 0 used textures, 0.00 percent of map (136 textures in wad)
+Using Wadfile: \program files\valve\cstrike\de_vegas.wad
+ - Contains 0 used textures, 0.00 percent of map (101 textures in wad)
+Using Wadfile: \program files\valve\cstrike\tswad.wad
+ - Contains 0 used textures, 0.00 percent of map (29 textures in wad)
+
+Warning: More than 8 wadfiles are in use. (24)
+This may be harmless, and if no strange side effects are occurring, then
+it can safely be ignored. However, if your map starts exhibiting strange
+or obscure errors, consider this as suspect.
+
+
+Warning: ::FindTexture() texture GREY not found!
+Warning: ::FindTexture() texture STONETILE4 not found!
+Warning: ::FindTexture() texture MTL not found!
+Warning: ::FindTexture() texture WOD not found!
+Warning: ::FindTexture() texture MARBLE not found!
+Warning: ::FindTexture() texture NOB not found!
+Warning: ::FindTexture() texture SNK not found!
+Warning: ::FindTexture() texture SPI not found!
+Warning: ::FindTexture() texture GROC3 not found!
+Warning: ::FindTexture() texture GROC1 not found!
+Warning: ::FindTexture() texture GROC2 not found!
+Warning: ::FindTexture() texture FRG not found!
+Warning: ::FindTexture() texture !POOL not found!
+Warning: ::FindTexture() texture GLS not found!
+Warning: ::LoadLump() texture !POOL not found!
+Warning: ::LoadLump() texture FRG not found!
+Warning: ::LoadLump() texture GLS not found!
+Warning: ::LoadLump() texture GREY not found!
+Warning: ::LoadLump() texture GROC1 not found!
+Warning: ::LoadLump() texture GROC2 not found!
+Warning: ::LoadLump() texture GROC3 not found!
+Warning: ::LoadLump() texture MARBLE not found!
+Warning: ::LoadLump() texture MTL not found!
+Warning: ::LoadLump() texture NOB not found!
+Warning: ::LoadLump() texture SNK not found!
+Warning: ::LoadLump() texture SPI not found!
+Warning: ::LoadLump() texture STONETILE4 not found!
+Warning: ::LoadLump() texture WOD not found!
+Texture usage is at 0.02 mb (of 4.00 mb MAX)
+1.95 seconds elapsed
+
+-----   END   hlcsg -----
+
+
+
+hlbsp v2.5.3 rel Custom Build 1.7 (Dec  9 2002)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (merlinis@bigpond.net.au)
+-----  BEGIN  hlbsp -----
+Command line: C:\DOCUME~1\Sekys\Plocha\Cahe\HAMMER~1\hlbsp.exe "c:\documents and settings\sekys\plocha\prefabs\kitchenset2"
+
+Current hlbsp Settings
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       1 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+priority            [  Normal ] [  Normal ]
+
+noclip              [     off ] [     off ]
+nofill              [     off ] [     off ]
+null tex. stripping [      on ] [      on ]
+notjunc             [     off ] [     off ]
+subdivide size      [     240 ] [     240 ] (Min 64) (Max 512)
+max node size       [    1024 ] [    1024 ] (Min 64) (Max 4096)
+
+
+BSP generation successful, writing portal file 'c:\documents and settings\sekys\plocha\prefabs\kitchenset2.prt'
+1.35 seconds elapsed
+
+-----   END   hlbsp -----
+
+
+
+hlvis v2.5.3 rel Custom Build 1.7 (Dec  9 2002)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (merlinis@bigpond.net.au)
+-----  BEGIN  hlvis -----
+Command line: C:\DOCUME~1\Sekys\Plocha\Cahe\HAMMER~1\hlvis.exe "c:\documents and settings\sekys\plocha\prefabs\kitchenset2"
+ 371 portalleafs
+1347 numportals
+
+-= Current hlvis Settings =-
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       1 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+max vis distance    [       0 ] [       0 ]
+priority            [  Normal ] [  Normal ]
+
+fast vis            [     off ] [     off ]
+full vis            [     off ] [     off ]
+
+
+BasePortalVis:
+ (1.72 seconds)
+LeafThread:
+ (53.22 seconds)
+average leafs visible: 200
+g_visdatasize:16077  compressed from 17437
+55.08 seconds elapsed
+
+-----   END   hlvis -----
+
+
+
+hlrad v2.5.3 rel Custom Build 1.7 (Dec  9 2002)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (merlinis@bigpond.net.au)
+-----  BEGIN  hlrad -----
+Command line: C:\DOCUME~1\Sekys\Plocha\Cahe\HAMMER~1\hlrad.exe "c:\documents and settings\sekys\plocha\prefabs\kitchenset2"
+
+-= Current hlrad Settings =-
+Name                | Setting             | Default
+--------------------|---------------------|-------------------------
+threads              [                 1 ] [            Varies ]
+verbose              [               off ] [               off ]
+log                  [                on ] [                on ]
+developer            [                 0 ] [                 0 ]
+chart                [               off ] [               off ]
+estimate             [               off ] [               off ]
+max texture memory   [           4194304 ] [           4194304 ]
+priority             [            Normal ] [            Normal ]
+
+vismatrix algorithm  [          Original ] [          Original ]
+oversampling (-extra)[               off ] [               off ]
+bounces              [                 1 ] [                 1 ]
+ambient light        [ 0.000 0.000 0.000 ] [ 0.000 0.000 0.000 ]
+maximum light        [           255.000 ] [           256.000 ]
+circus mode          [               off ] [               off ]
+
+smoothing threshold  [            50.000 ] [            50.000 ]
+direct threshold     [            25.000 ] [            25.000 ]
+direct light scale   [             2.000 ] [             2.000 ]
+coring threshold     [             1.000 ] [             1.000 ]
+patch interpolation  [                on ] [                on ]
+
+texscale             [                on ] [                on ]
+patch subdividing    [                on ] [                on ]
+chop value           [            64.000 ] [            64.000 ]
+texchop value        [            32.000 ] [            32.000 ]
+
+global fade          [             1.000 ] [             1.000 ]
+global falloff       [                 2 ] [                 2 ]
+global light scale   [ 1.000 1.000 1.000 ] [ 1.000 1.000 1.000 ]
+global gamma         [ 0.500 0.500 0.500 ] [ 0.500 0.500 0.500 ]
+global light scale   [             1.000 ] [             1.000 ]
+global sky diffusion [             1.000 ] [             1.000 ]
+
+opaque entities      [                on ] [                on ]
+sky lighting fix     [                on ] [                on ]
+incremental          [               off ] [               off ]
+dump                 [               off ] [               off ]
+
+colour jitter        [       0.0 0.0 0.0 ] [       0.0 0.0 0.0 ]
+monochromatic jitter [       0.0 0.0 0.0 ] [       0.0 0.0 0.0 ]
+softlight hack       [   0.0 0.0 0.0 0.0 ] [   0.0 0.0 0.0 0.0 ]
+diffuse hack         [                on ] [                on ]
+spotlight points     [                on ] [                on ]
+
+custom shadows with bounce light
+                     [               off ] [               off ]
+rgb transfers        [               off ] [               off ]
+
+
+1696 faces
+Create Patches : 2685 base patches
+0 opaque faces
+6660 square feet [959139.88 square inches]
+6 direct lights
+
+BuildFacelights:
+ (16.53 seconds)
+visibility matrix   :   0.4 megs
+BuildVisLeafs:
+ (3.75 seconds)
+MakeScales:
+ (0.99 seconds)
+SwapTransfers:
+ (0.70 seconds)
+Transfer Lists :     1014612 :    1.01M transfers
+       Indices :      865096 :  844.82k bytes
+          Data :     4058448 :    3.87M bytes
+GatherLight:
+ (0.19 seconds)
+FinalLightFace:
+ (0.50 seconds)
+22.87 seconds elapsed
+
+-----   END   hlrad -----
+
+
+

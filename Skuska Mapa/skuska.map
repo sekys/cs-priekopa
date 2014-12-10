@@ -1,0 +1,75 @@
+{
+"classname" "worldspawn"
+"classname" "worldspawn"
+"MaxRange" "4096"
+"mapversion" "220"
+"wad" "\program files\valve\cstrike\cs_747.wad;\program files\valve\cstrike\cs_assault.wad;\program files\valve\cstrike\0soup0_simpsons.wad;\program files\valve\cstrike\actcity2.wad;\program files\valve\cstrike\cs_office.wad;\program files\valve\cstrike\cs_bdog.wad;\program files\valve\cstrike\cs_cbble.wad;\program files\valve\cstrike\cs_dust.wad;\program files\valve\cstrike\cstrike.wad;\program files\valve\cstrike\de_aztec.wad;\program files\valve\cstrike\de_piranesi.wad;\program files\valve\cstrike\de_storm.wad;\program files\valve\cstrike\decals.wad;\program files\valve\cstrike\es_trinity.wad;\program files\valve\cstrike\fy_pool_evening.wad;\program files\valve\cstrike\itsitaly.wad;\program files\valve\cstrike\jos.wad;\program files\valve\cstrike\torntextures.wad;\program files\valve\cstrike\halflife.wad;\program files\valve\cstrike\cs_havana.wad;\program files\valve\cstrike\de_airstrip.wad;\program files\valve\cstrike\chateau.wad;\program files\valve\cstrike\de_vegas.wad;\program files\valve\cstrike\tswad.wad;\program files\valve\cstrike\de_vertigo.wad"
+{
+( -384 192 -256 ) ( 384 192 -256 ) ( 384 -448 -256 ) TK_FABRICBLU [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( -384 -448 -320 ) ( 384 -448 -320 ) ( 384 192 -320 ) TK_FABRICBLU [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( -384 192 -256 ) ( -384 -448 -256 ) ( -384 -448 -320 ) TK_FABRICBLU [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 384 192 -320 ) ( 384 -448 -320 ) ( 384 -448 -256 ) TK_FABRICBLU [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 384 192 -256 ) ( -384 192 -256 ) ( -384 192 -320 ) TK_FABRICBLU [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 384 -448 -320 ) ( -384 -448 -320 ) ( -384 -448 -256 ) TK_FABRICBLU [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+}
+{
+( -384 192 192 ) ( -320 192 192 ) ( -320 -448 192 ) !TOXICGRN [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( -384 -448 -320 ) ( -320 -448 -320 ) ( -320 192 -320 ) !TOXICGRN [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( -384 192 192 ) ( -384 -448 192 ) ( -384 -448 -320 ) !TOXICGRN [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( -320 192 -320 ) ( -320 -448 -320 ) ( -320 -448 192 ) !TOXICGRN [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( -320 192 192 ) ( -384 192 192 ) ( -384 192 -320 ) !TOXICGRN [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( -320 -448 -320 ) ( -384 -448 -320 ) ( -384 -448 192 ) !TOXICGRN [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+}
+{
+( 320 192 192 ) ( 384 192 192 ) ( 384 -448 192 ) !WATERCARTOON [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( 320 -448 -320 ) ( 384 -448 -320 ) ( 384 192 -320 ) !WATERCARTOON [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( 320 192 192 ) ( 320 -448 192 ) ( 320 -448 -320 ) !WATERCARTOON [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 384 192 -320 ) ( 384 -448 -320 ) ( 384 -448 192 ) !WATERCARTOON [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 384 192 192 ) ( 320 192 192 ) ( 320 192 -320 ) !WATERCARTOON [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 384 -448 -320 ) ( 320 -448 -320 ) ( 320 -448 192 ) !WATERCARTOON [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+}
+{
+( -384 192 192 ) ( 384 192 192 ) ( 384 128 192 ) WLSTUCCOWND [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( -384 128 -320 ) ( 384 128 -320 ) ( 384 192 -320 ) WLSTUCCOWND [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( -384 192 192 ) ( -384 128 192 ) ( -384 128 -320 ) WLSTUCCOWND [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 384 192 -320 ) ( 384 128 -320 ) ( 384 128 192 ) WLSTUCCOWND [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 384 192 192 ) ( -384 192 192 ) ( -384 192 -320 ) WLSTUCCOWND [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 384 128 -320 ) ( -384 128 -320 ) ( -384 128 192 ) WLSTUCCOWND [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+}
+{
+( -384 -384 192 ) ( 384 -384 192 ) ( 384 -448 192 ) B_CP_V10 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( -384 -448 -320 ) ( 384 -448 -320 ) ( 384 -384 -320 ) B_CP_V10 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( -384 -384 192 ) ( -384 -448 192 ) ( -384 -448 -320 ) B_CP_V10 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 384 -384 -320 ) ( 384 -448 -320 ) ( 384 -448 192 ) B_CP_V10 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 384 -384 192 ) ( -384 -384 192 ) ( -384 -384 -320 ) B_CP_V10 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 384 -448 -320 ) ( -384 -448 -320 ) ( -384 -448 192 ) B_CP_V10 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+}
+{
+( -384 192 192 ) ( 384 192 192 ) ( 384 -448 192 ) WALKWAY1_X4 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( -384 -448 128 ) ( 384 -448 128 ) ( 384 192 128 ) WALKWAY1_X4 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( -384 192 192 ) ( -384 -448 192 ) ( -384 -448 128 ) WALKWAY1_X4 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 384 192 128 ) ( 384 -448 128 ) ( 384 -448 192 ) WALKWAY1_X4 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 384 192 192 ) ( -384 192 192 ) ( -384 192 128 ) WALKWAY1_X4 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 384 -448 128 ) ( -384 -448 128 ) ( -384 -448 192 ) WALKWAY1_X4 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+}
+}
+{
+"classname" "light"
+"_light" "255 255 255 200"
+"_fade" "1.0"
+"origin" "0 -128 64"
+}
+{
+"classname" "info_player_deathmatch"
+"angles" "0 0 0"
+"sequence" "1"
+"model" "models/player/guerilla/guerilla.mdl"
+"origin" "-256 -128 -128"
+}
+{
+"classname" "info_player_start"
+"angles" "0 0 0"
+"sequence" "1"
+"model" "models/player/gsg9/gsg9.mdl"
+"origin" "192 -128 -128"
+}
